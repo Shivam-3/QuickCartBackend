@@ -1,0 +1,13 @@
+C:\step2gen\Git-Repos\QuickCartBackend\QuickCartAPIDomain\bin\Debug\net9.0\QuickCartAPIDomain.deps.json
+C:\step2gen\Git-Repos\QuickCartBackend\QuickCartAPIDomain\bin\Debug\net9.0\QuickCartAPIDomain.dll
+C:\step2gen\Git-Repos\QuickCartBackend\QuickCartAPIDomain\bin\Debug\net9.0\QuickCartAPIDomain.pdb
+C:\step2gen\Git-Repos\QuickCartBackend\QuickCartAPIDomain\obj\Debug\net9.0\QuickCartAPIDomain.csproj.AssemblyReference.cache
+C:\step2gen\Git-Repos\QuickCartBackend\QuickCartAPIDomain\obj\Debug\net9.0\QuickCartAPIDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\step2gen\Git-Repos\QuickCartBackend\QuickCartAPIDomain\obj\Debug\net9.0\QuickCartAPIDomain.AssemblyInfoInputs.cache
+C:\step2gen\Git-Repos\QuickCartBackend\QuickCartAPIDomain\obj\Debug\net9.0\QuickCartAPIDomain.AssemblyInfo.cs
+C:\step2gen\Git-Repos\QuickCartBackend\QuickCartAPIDomain\obj\Debug\net9.0\QuickCartAPIDomain.csproj.CoreCompileInputs.cache
+C:\step2gen\Git-Repos\QuickCartBackend\QuickCartAPIDomain\obj\Debug\net9.0\QuickCartAPIDomain.sourcelink.json
+C:\step2gen\Git-Repos\QuickCartBackend\QuickCartAPIDomain\obj\Debug\net9.0\QuickCartAPIDomain.dll
+C:\step2gen\Git-Repos\QuickCartBackend\QuickCartAPIDomain\obj\Debug\net9.0\refint\QuickCartAPIDomain.dll
+C:\step2gen\Git-Repos\QuickCartBackend\QuickCartAPIDomain\obj\Debug\net9.0\QuickCartAPIDomain.pdb
+C:\step2gen\Git-Repos\QuickCartBackend\QuickCartAPIDomain\obj\Debug\net9.0\ref\QuickCartAPIDomain.dll

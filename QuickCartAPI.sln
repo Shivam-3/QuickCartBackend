@@ -1,9 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickCartAPI", "QuickCartAPI\QuickCartAPI.csproj", "{94922563-BB50-4F09-AC0D-95BC089AEFA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickCartAPIApplication", "QuickCartAPIApplication\QuickCartAPIApplication.csproj", "{303A8371-8CCE-4D6A-B09F-CD4360F6AC62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickCartAPIDomain", "QuickCartAPIDomain\QuickCartAPIDomain.csproj", "{862D832C-7FE1-40CC-95E6-3A926CFA158F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickCartAPIInfrastructure", "QuickCartAPIInfrastructure\QuickCartAPIInfrastructure.csproj", "{35915A14-0E9C-43F7-8F1D-91C5656E77F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickCartAPIShared", "QuickCartAPIShared\QuickCartAPIShared.csproj", "{98C100E0-170B-4D5B-831C-99ACC6025DB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{94922563-BB50-4F09-AC0D-95BC089AEFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94922563-BB50-4F09-AC0D-95BC089AEFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94922563-BB50-4F09-AC0D-95BC089AEFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{303A8371-8CCE-4D6A-B09F-CD4360F6AC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303A8371-8CCE-4D6A-B09F-CD4360F6AC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303A8371-8CCE-4D6A-B09F-CD4360F6AC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303A8371-8CCE-4D6A-B09F-CD4360F6AC62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{862D832C-7FE1-40CC-95E6-3A926CFA158F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862D832C-7FE1-40CC-95E6-3A926CFA158F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862D832C-7FE1-40CC-95E6-3A926CFA158F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862D832C-7FE1-40CC-95E6-3A926CFA158F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35915A14-0E9C-43F7-8F1D-91C5656E77F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35915A14-0E9C-43F7-8F1D-91C5656E77F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35915A14-0E9C-43F7-8F1D-91C5656E77F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35915A14-0E9C-43F7-8F1D-91C5656E77F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C100E0-170B-4D5B-831C-99ACC6025DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C100E0-170B-4D5B-831C-99ACC6025DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C100E0-170B-4D5B-831C-99ACC6025DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C100E0-170B-4D5B-831C-99ACC6025DB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
